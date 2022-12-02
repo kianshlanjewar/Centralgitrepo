@@ -1,0 +1,1 @@
+Fie to check whether its get owner from the branch where its got created or anyone can be owner 
